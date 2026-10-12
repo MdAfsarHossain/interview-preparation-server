@@ -1,5 +1,5 @@
 {
-  "name": "resqueu-server",
+  "name": "interview-preparation-server",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
